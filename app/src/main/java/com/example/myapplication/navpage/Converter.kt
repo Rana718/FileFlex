@@ -5,10 +5,9 @@ import android.content.Intent
 import android.net.Uri
 import androidx.activity.result.contract.ActivityResultContracts
 import androidx.compose.runtime.*
-import androidx.compose.ui.platform.LocalContext
 import androidx.lifecycle.viewmodel.compose.viewModel
+import androidx.compose.ui.platform.LocalContext
 import androidx.activity.compose.rememberLauncherForActivityResult
-import androidx.compose.ui.Modifier
 import com.example.myapplication.navpage.utils.FileConverterApp
 import com.example.myapplication.navpage.utils.FileConverterViewModel
 
